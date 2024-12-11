@@ -5,6 +5,6 @@ let calculatearea= (length, width)=>{
 }
 
 let length = 10;
-let width = 5;
+let width = 9;
 let area = calculatearea(length, width);
 console.log("area is:", area);
